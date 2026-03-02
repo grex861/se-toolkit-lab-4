@@ -335,7 +335,9 @@ Title: `[Task] Observe System Component Interaction`
 
 #### 1.9.3. Comment 3: attach the file with the data output from `pgAdmin`
 
-1. [Save to file the data output](../../../wiki/pgadmin.md#copy-the-query-data-output) that you got when verifying in the `pgAdmin` that a new row appeared.
+1. [Save to a file the data output](../../../wiki/pgadmin.md#save-to-file-the-query-data-output) that you got when verifying in the [`pgAdmin`](../../../wiki/pgadmin.md#what-is-pgadmin) that a new row appeared.
+
+   Example of the content in that file:
 
    ```csv
    "id","name","email","enrolled_at"
